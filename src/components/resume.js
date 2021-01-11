@@ -65,7 +65,7 @@ class Resume extends Component {
             <a href="https://github.com/komalsuthar151">GitHub</a><br/>
              <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
            
-            <p class="buttons"><a href="https://drive.google.com/file/d/1JQ7U7BGorgbOObyKTvFIpBW5seDGFNYX/view?usp=sharing" target="_blank" title="CLick To View Resume" data-toggle="tooltip" class="btn btn-secondary"><i class="fa fa-file-pdf"></i>Resume PDF</a> 
+            <p class="buttons"><a href="https://drive.google.com/file/d/1JQ7U7BGorgbOObyKTvFIpBW5seDGFNYX/view?usp=sharing" target="_blank" title="CLick To View Resume" data-toggle="tooltip" class="btn btn-secondary" rel="noopener noreferrer"><i class="fa fa-file-pdf"></i>Resume PDF</a> 
           <a href="/contact" class="btn btn-secondary js-scroll-trigger">Contact me</a></p>        
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           </Cell>
