@@ -84,7 +84,7 @@ class Projects extends Component {
             
             {/* RSA */}
             <Cell col={1}>
-              <img src="https://lh3.googleusercontent.com/metxf8Wp5RNcGtFLpAcdwqDZWnxY1dXdvvLSnBYRF0ol3c2_rAr-nAIPIvxMkAZDwGe85j2tnEjZrgZ2JYnBTlE-wnhA00G4qKBuaew33hdQjWO7p4OCQ7Hg7gpdr3EIipkHo2rQMzo=w512-h315-p-k" width="50px" height="50px" alt="image not found"/> 
+              <img src="https://lh3.googleusercontent.com/metxf8Wp5RNcGtFLpAcdwqDZWnxY1dXdvvLSnBYRF0ol3c2_rAr-nAIPIvxMkAZDwGe85j2tnEjZrgZ2JYnBTlE-wnhA00G4qKBuaew33hdQjWO7p4OCQ7Hg7gpdr3EIipkHo2rQMzo=w512-h315-p-k" width="50px" height="50px" alt=""/> 
             </Cell>
             <Cell col={11}>
               <h5 style={{padding:0, margin:0}}>Software Engineer</h5>
@@ -93,7 +93,7 @@ class Projects extends Component {
             <br/>
             {/* DELL */}
             <Cell col={1}>
-              <img src="https://lh3.googleusercontent.com/KlxKYg5zLveDJ-amqCp6-4OjqwTGkzhmwKNoEaga2zLEMRHNFGdwge9d90O_rxkIK7Fu5z4VtXF2nlRnPwv0J9dC96PPcZSkrQSVE7mL7_FI3zOvDDIZGNRbxkGhvTbWJ2d6rDIicdw=w400-h315-p-k" width="50px" height="50px" alt="image not found"/> 
+              <img src="https://lh3.googleusercontent.com/KlxKYg5zLveDJ-amqCp6-4OjqwTGkzhmwKNoEaga2zLEMRHNFGdwge9d90O_rxkIK7Fu5z4VtXF2nlRnPwv0J9dC96PPcZSkrQSVE7mL7_FI3zOvDDIZGNRbxkGhvTbWJ2d6rDIicdw=w400-h315-p-k" width="50px" height="50px" alt=""/> 
             </Cell>
             <Cell col={11}>
               <h5 style={{padding:0, margin:0}}>Software Engineer Co-op</h5>
@@ -102,7 +102,7 @@ class Projects extends Component {
             <br/>
             {/* NEU */}
             <Cell col={1}>
-              <img src="https://lh3.googleusercontent.com/iICJyW79adqEKbYp6Ul7GU4dcUx0I5v2QNoZR7_IlptMukvRJCesaKsuasDsoDErthaHOI6SmvVQC_xoeyK9WyYxyCOeOubObm-I2W2_NcfA4ya54sJ03iBA1yVkzQpRRMmWPYwdQY0=w420-h315-p-k" width="50px" height="50px" alt="image not found"/> 
+              <img src="https://lh3.googleusercontent.com/iICJyW79adqEKbYp6Ul7GU4dcUx0I5v2QNoZR7_IlptMukvRJCesaKsuasDsoDErthaHOI6SmvVQC_xoeyK9WyYxyCOeOubObm-I2W2_NcfA4ya54sJ03iBA1yVkzQpRRMmWPYwdQY0=w420-h315-p-k" width="50px" height="50px" alt=""/> 
             </Cell>
             <Cell col={11}>
               <h5 style={{padding:0, margin:0}}>Web & Graphics Designer</h5>
@@ -120,7 +120,7 @@ class Projects extends Component {
             </Cell>
 
             <Cell col={2}>
-              <img style={{borderRadius:'50%'}} src="https://lh3.googleusercontent.com/CT28-2AjRwGViEeyCI3bZDqjdeqb3H4Z8mlQFjKjxizkQPKzSCCwC6uYE9q5wOWKUjLjPLOiYwrWGLfShqBFWfArLNE9DLyiTxcaTWy3vnV8ZSrFv6iMXGDWQawfcILXSRhcaZN32pY=s100-p-k" width="50px" height="50px" alt="image not found"/> 
+              <img style={{borderRadius:'50%'}} src="https://lh3.googleusercontent.com/CT28-2AjRwGViEeyCI3bZDqjdeqb3H4Z8mlQFjKjxizkQPKzSCCwC6uYE9q5wOWKUjLjPLOiYwrWGLfShqBFWfArLNE9DLyiTxcaTWy3vnV8ZSrFv6iMXGDWQawfcILXSRhcaZN32pY=s100-p-k" width="50px" height="50px" alt=""/> 
               <h6 style={{padding:0, margin:0}}>Chandrakant Natarajan</h6>
               <h6 style={{padding:0, margin:0}}>SDM at Amazon Robotics</h6>
             </Cell>
@@ -129,7 +129,7 @@ class Projects extends Component {
             </Cell>
 
             <Cell col={2}>
-              <img style={{borderRadius:'50%'}} src="https://lh3.googleusercontent.com/7ZQhHco58wLDt8WDftoahtIb43Ql-g1t6uGtVWA_El0f3SlOJ2gyuF8CBrgJ_w1BtQ820SBbzNeivyGGVS5w_2yCFN9oSTHWPIpbeKrDaeFjjGn52idaHr5HBFFiLUGaqUe8g_7MfaE=s100-p-k" width="50px" height="50px" alt="image not found"/> 
+              <img style={{borderRadius:'50%'}} src="https://lh3.googleusercontent.com/7ZQhHco58wLDt8WDftoahtIb43Ql-g1t6uGtVWA_El0f3SlOJ2gyuF8CBrgJ_w1BtQ820SBbzNeivyGGVS5w_2yCFN9oSTHWPIpbeKrDaeFjjGn52idaHr5HBFFiLUGaqUe8g_7MfaE=s100-p-k" width="50px" height="50px" alt=""/> 
               <h6 style={{padding:0, margin:0}}>Alina Daunyte</h6>
               <h6 style={{padding:0, margin:0}}>Scrum Master and Agile Coach</h6>
             </Cell>

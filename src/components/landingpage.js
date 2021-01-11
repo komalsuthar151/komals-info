@@ -17,7 +17,7 @@ class Landing extends Component {
               </Cell>
               
               <Cell col={4}>
-              <img src="https://lh3.googleusercontent.com/G2Sh3ReoAOadqTIfw6iC-JIjn68cAH2DmRFhSL6wst6cLE1Tsu01J9BcKCrqMcCFVk6KlbUO-GgjE-wOUjQAp3xKkHM-PQB1asr80uyiML1cTiRDs9XQr6BQ-v9eI8hBoz7B_L0tihU=w398-h315-p-k" alt="Image not found" /> 
+              <img src="https://lh3.googleusercontent.com/G2Sh3ReoAOadqTIfw6iC-JIjn68cAH2DmRFhSL6wst6cLE1Tsu01J9BcKCrqMcCFVk6KlbUO-GgjE-wOUjQAp3xKkHM-PQB1asr80uyiML1cTiRDs9XQr6BQ-v9eI8hBoz7B_L0tihU=w398-h315-p-k" alt="" /> 
             </Cell>
             
 
