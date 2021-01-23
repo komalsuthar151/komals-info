@@ -16,15 +16,9 @@ body{
   background: url("assets/Pastel-iPhone-Wallpaper-1.jpg");
  }
 
-/* .landing-grid {
-  backgroundImage:`url("assets/b_back.jpg")` ; 
-  text-align: center;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-} */
+ .avatar:hover {
+  transform: translateY(-2px) scale(1.1);
+}
 
 .projects-grid {
   display: flex;
