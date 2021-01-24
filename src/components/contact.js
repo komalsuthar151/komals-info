@@ -27,8 +27,8 @@ class Contact extends Component {
             <hr/>
 
           <form className="form-group" onSubmit={sendEmail}>
-              <input  className="form-control" type="text" name="name" placeholder="Name" />
-              <input  className="form-control" type="email" name="email" placeholder="Email"/>
+              <input  className="form-control" type="text" name="name" placeholder="Name" required/>
+              <input  className="form-control" type="email" name="email" placeholder="Email" required/>
               <input  className="form-control" type="number" name="phone" placeholder="Phone Number"/>
              <textarea  className="form-control" name="message" placeholder="Message"/>
             <input type="submit" class="btn btn-secondary js-scroll-trigger" value="Send" />
